@@ -92,5 +92,4 @@ namespace httpValidCpf
             return cpf.EndsWith(digito);
         }
     }
-
 }
